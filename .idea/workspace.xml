@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e9bb13f-79a4-4b42-a872-b56505e90033" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1hqWHhwurjL7soJDWhv2BJQgaRK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build hellobeego" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="hellobeego" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="hellobeego" />
+      <output_directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build hellobeego" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="149" key="#go_build_hellobeego" timestamp="1600739051981">
+      <screen x="0" y="0" width="1467" height="864" />
+    </state>
+    <state x="447" y="149" key="#go_build_hellobeego/0.0.1467.864@0.0.1467.864" timestamp="1600739051981" />
+    <state x="507" y="261" key="FileChooserDialogImpl" timestamp="1600739051380">
+      <screen x="0" y="0" width="1467" height="864" />
+    </state>
+    <state x="507" y="261" key="FileChooserDialogImpl/0.0.1467.864@0.0.1467.864" timestamp="1600739051380" />
+    <state width="1425" height="168" key="GridCell.Tab.0.bottom" timestamp="1600764452136">
+      <screen x="0" y="0" width="1467" height="864" />
+    </state>
+    <state width="1425" height="168" key="GridCell.Tab.0.bottom/0.0.1467.864@0.0.1467.864" timestamp="1600764452136" />
+    <state width="1425" height="168" key="GridCell.Tab.0.center" timestamp="1600764452136">
+      <screen x="0" y="0" width="1467" height="864" />
+    </state>
+    <state width="1425" height="168" key="GridCell.Tab.0.center/0.0.1467.864@0.0.1467.864" timestamp="1600764452136" />
+    <state width="1425" height="168" key="GridCell.Tab.0.left" timestamp="1600764452136">
+      <screen x="0" y="0" width="1467" height="864" />
+    </state>
+    <state width="1425" height="168" key="GridCell.Tab.0.left/0.0.1467.864@0.0.1467.864" timestamp="1600764452136" />
+    <state width="1425" height="168" key="GridCell.Tab.0.right" timestamp="1600764452136">
+      <screen x="0" y="0" width="1467" height="864" />
+    </state>
+    <state width="1425" height="168" key="GridCell.Tab.0.right/0.0.1467.864@0.0.1467.864" timestamp="1600764452136" />
+    <state x="282" y="102" key="SettingsEditor" timestamp="1600763280451">
+      <screen x="0" y="0" width="1467" height="864" />
+    </state>
+    <state x="282" y="102" key="SettingsEditor/0.0.1467.864@0.0.1467.864" timestamp="1600763280451" />
+  </component>
+</project>
